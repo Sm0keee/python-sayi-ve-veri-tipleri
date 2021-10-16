@@ -1,0 +1,45 @@
+"""Tam sayilar = integer ,ondalikli sayilar = float  , toplama = + , çikarma = - , carpma = * , bolme = / 
+
+degiskenler=bir veri tipinden deger tutan birimlerdir.
+
+ degisken tanimlamak istiyorsak eger soyle yapabilirz : 
+python = 9
+print(pyton) sistemde 9 degeri verir.
+
+Tolga = 3.4
+
+
+print(Tolga*Tolga*Tolga)=39.303999999999995
+
+a = 4
+b = 8
+c = a + b * 2
+print(c)
+
+ dairenin cevresini bulalım
+pi_sayisi = 3
+cap = 4
+cevre = pi_sayisi * cap * 2
+
+print(cevre)
+
+a = 5
+b = 8
+a,b=b,a
+print(a,b) bu sekilde deger degistiriliyor normalde sonuc 5,8 olur du ama a,b=b,a bunu yazdigimiz icin sonuc 8,5 oldu
+
+a = 5
+print(a+1) bu sekilded sonuc 6 cıkar
+a = 5
+a +=1
+print(a)  bu da farklı bir sekli 
+
+yorum satiri yazmak icinde birden fazla yazicaksak eger """ ile baslar """ bitiririz
+ama tekli satırda # bu isaret yeterdi """
+
+
+
+
+
+
+
